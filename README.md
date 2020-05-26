@@ -2,5 +2,6 @@
 
 ## we have ingredients and instructions
 
-### serve with your favourite dishes
+## serve with your favourite dishes
+
 used in teaching Git.
